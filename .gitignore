@@ -9,4 +9,17 @@ wheels/
 # Virtual environments
 .venv
 
+# python cache
 *.pyc
+
+# data
+data/
+
+# models
+models/
+
+# outputs
+outputs/
+
+# ipynb checkpoints
+.ipynb_checkpoints/
